@@ -29,14 +29,14 @@ This Discord bot allows users to manage their stock portfolios directly within a
         ```
         DISCORD_TOKEN={TOKEN_HERE}
         ```
-    * Create a `config.json` file and add the following:
+    * Edit the `config.json` file to your liking:
         ```json
         {
             "prefix": "$",
             "disabled_cogs": ["{COG_NAME}"]
         }
         ```
-    * Create a `all_statuses.json` file to the misc folder and add the following:
+    * Edit the `all_statuses.json` file to your liking:
         ```json
         {
             "statuses" : [
