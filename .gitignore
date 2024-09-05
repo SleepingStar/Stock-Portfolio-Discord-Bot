@@ -1,0 +1,6 @@
+fun.py
+*.env
+*.db
+*.log
+*.vscode/
+*__pycache__/
